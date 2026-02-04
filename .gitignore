@@ -1,0 +1,16 @@
+# Python compilados y caché
+__pycache__/
+*.pyc
+
+# Archivos de sistema y editores
+.DS_Store
+*~
+*.swp
+
+# Entorno Virtual
+venv/
+
+# Notas mias
+notas_mias.txt
+InSearch_V_Python_2.py
+a.DoNotBeDistracted.py
