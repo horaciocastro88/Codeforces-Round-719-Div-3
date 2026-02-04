@@ -1,5 +1,6 @@
 
 # Aceptado en Codeforces
+# Algoritmo de complejidad lineal O(n)
 
 def resolver():
 	
