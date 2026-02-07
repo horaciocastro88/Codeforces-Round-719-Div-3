@@ -10,8 +10,12 @@ __pycache__/
 # Entorno Virtual
 venv/
 
+# Configuracion de VS Code
+.vscode/
+
 # Notas mias
 notas_mias.txt
 InSearch_V_Python_2.py
 a.DoNotBeDistracted.py
 esqueleto.py
+pruebaEntVirtual.py
